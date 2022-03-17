@@ -1,0 +1,8 @@
+Merkúr;0;0.0562
+Vénusz;0;0.857
+Föld;1;1
+Mars;2;0.151
+Jupiter;79;1321
+Szaturnusz;83;764
+Uránusz;27;63.1
+Neptunusz;14;57.7
